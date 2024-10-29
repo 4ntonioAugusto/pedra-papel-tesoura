@@ -102,6 +102,6 @@ header > h1{
 }
 
 .gray-glow{
-    border: 4px solid #ff00d4;
-    box-shadow: 0 0 10px #ff00dd;
+    border: 4px solid #d0ff00;
+    box-shadow: 0 0 10px #ffee00;
 }
