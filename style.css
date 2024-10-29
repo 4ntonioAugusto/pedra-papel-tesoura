@@ -15,14 +15,14 @@ header{
 }
 
 header > h1{
-    color:blueviolet;
+    color:rgb(0, 81, 255);
     text-align: center;
     font-family: sans-serif;
 }
 
 .score-board {
     margin: 20px auto;
-    border: 3px solid white;
+    border: 3px solid rgb(19, 22, 211);
     border-radius: 4px;
     width: 200px;
     text-align: center;
