@@ -10,12 +10,12 @@ body{
 }
 
 header{
-    background-color: rgb(24, 11, 212);
+    background-color: rgba(20, 20, 24, 0);
     padding: 20px;
 }
 
 header > h1{
-    color:rgb(0, 81, 255);
+    color:rgb(18, 48, 112);
     text-align: center;
     font-family: sans-serif;
 }
